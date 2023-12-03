@@ -25,3 +25,5 @@ Tenho 25 anos, moro em São Paulo/Sp e sou apaixonado por programação e esport
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnatanhenr&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Johnatanhenr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+![Snake animation](https://github.com/Johnatanhenr/Johnatanhenr/Johnatanhenr/blob/output/github-contribution-grid-snake.svg)
