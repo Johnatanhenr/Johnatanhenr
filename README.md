@@ -20,3 +20,9 @@ Tenho 25 anos, moro em São Paulo/Sp e sou apaixonado por programação e esport
 <a href="https://www.linkedin.com/in/johnatan-henrique-932638206/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<div>
+<a href="https://github.com/Johnatanhenr/Johnatanhenr">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Johnatanhenr/Johnatanhenr&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/Johnatanhenr/Johnatanhenr
+&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
