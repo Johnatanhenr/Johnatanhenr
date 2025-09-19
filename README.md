@@ -2,7 +2,7 @@
 
 ## Hello, Devs!!
 
-Tenho 26 anos, moro em São Paulo/SP e sou apaixonado por programação e esportes! Sou novo nessa área. Apanho bastante, mas aprendo na raça, quanto mais apanho e passo raiva. Mais eu gosto de tudo isso!
+Tenho 27 anos, moro em São Paulo/SP e sou apaixonado por programação e esportes! Sou novo nessa área. Apanho bastante, mas aprendo na raça, quanto mais apanho e passo raiva. Mais eu gosto de tudo isso!
 
 ## Ferramentas e Tecnologias
 
